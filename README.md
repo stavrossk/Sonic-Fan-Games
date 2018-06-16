@@ -9,8 +9,15 @@ A list of fan-made games similar to Sega's Sonic the Hedgehog series.
 
 [Sonic Chrono Adventure](https://www.youtube.com/redirect?redir_token=A6o4V63kWKwHLTkFJFVD8ynVKHt8MTUyOTIwMDg2OUAxNTI5MTE0NDY5&q=https%3A%2F%2Fsites.google.com%2Fsite%2Fsonicchronoadventure%2F&event=video_description&v=gyQYZ6-Uqy4)
 
+
 3D:
 
 [Sonic World](https://www.youtube.com/redirect?redir_token=A6o4V63kWKwHLTkFJFVD8ynVKHt8MTUyOTIwMDg2OUAxNTI5MTE0NDY5&q=http%3A%2F%2Fsonicworldfangame.com%2F&event=video_description&v=gyQYZ6-Uqy4)
 
+[Sonic 3D](https://www.youtube.com/redirect?redir_token=A6o4V63kWKwHLTkFJFVD8ynVKHt8MTUyOTIwMDg2OUAxNTI5MTE0NDY5&q=http%3A%2F%2Fgamejolt.com%2Fgames%2Fsonic-the-hedgehog-3d%2F13798&event=video_description&v=gyQYZ6-Uqy4)
+
+
+Rom Hacks:
+
+[Sonic Megamix](http://info.sonicretro.org/Sonic_the_Hedgehog_Megamix)
 
