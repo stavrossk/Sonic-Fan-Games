@@ -22,6 +22,14 @@ A list of fan-made games similar to Sega's Sonic the Hedgehog series.
 
 [Sonic 3D](https://www.youtube.com/redirect?redir_token=A6o4V63kWKwHLTkFJFVD8ynVKHt8MTUyOTIwMDg2OUAxNTI5MTE0NDY5&q=http%3A%2F%2Fgamejolt.com%2Fgames%2Fsonic-the-hedgehog-3d%2F13798&event=video_description&v=gyQYZ6-Uqy4)
 
+[Sonic the Hedgehog 2006 PC](https://www.youtube.com/redirect?redir_token=zt8hPbbf2YinWrzPgWRHZ6MbrgB8MTUyOTY2MDUwMEAxNTI5NTc0MTAw&v=PLtqGVty2IY&q=https%3A%2F%2Finfo.sonicretro.org%2FSonic_the_Hedgehog_2006_PC&event=video_description)
+
+[Sonic Souls](https://www.youtube.com/redirect?redir_token=zt8hPbbf2YinWrzPgWRHZ6MbrgB8MTUyOTY2MDUwMEAxNTI5NTc0MTAw&v=PLtqGVty2IY&q=http%3A%2F%2Fdokydoky.wixsite.com%2Fsonic-souls&event=video_description)
+
+[Sonic Utopia](https://www.youtube.com/watch?v=5paaz16Nw20)
+
+[Sonic Robo Blast 2](https://www.youtube.com/redirect?redir_token=zt8hPbbf2YinWrzPgWRHZ6MbrgB8MTUyOTY2MDUwMEAxNTI5NTc0MTAw&v=PLtqGVty2IY&q=https%3A%2F%2Fwww.srb2.org%2F&event=video_description)
+
 
 Rom Hacks:
 
