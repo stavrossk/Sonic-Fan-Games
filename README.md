@@ -15,6 +15,8 @@ A list of fan-made games similar to Sega's Sonic the Hedgehog series.
 
 [Sonic the Hedgehog 2 HD](https://www.youtube.com/redirect?redir_token=zt8hPbbf2YinWrzPgWRHZ6MbrgB8MTUyOTY2MDUwMEAxNTI5NTc0MTAw&v=PLtqGVty2IY&q=http%3A%2F%2Finfo.sonicretro.org%2FSonic_the_Hedgehog_2_HD&event=video_description)
 
+[Sonic Judgement](https://deliriousnova.itch.io/sonic-judgement)
+
 
 3D:
 
