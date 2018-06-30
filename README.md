@@ -17,6 +17,8 @@ A list of fan-made games similar to Sega's Sonic the Hedgehog series.
 
 [Sonic Judgement](https://deliriousnova.itch.io/sonic-judgement)
 
+[Sonic Runner Retro](https://elieseroliveira.itch.io/sonic-runner-retro-fan-game)
+
 
 3D:
 
