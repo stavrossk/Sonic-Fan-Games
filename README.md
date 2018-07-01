@@ -19,6 +19,8 @@ A list of fan-made games similar to Sega's Sonic the Hedgehog series.
 
 [Sonic Runner Retro](https://elieseroliveira.itch.io/sonic-runner-retro-fan-game)
 
+[Mario & Sonic: Diemensions Collide](https://adam-medina-genkidev.itch.io/mario-and-sonic-dc)
+
 
 3D:
 
